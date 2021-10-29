@@ -1,15 +1,15 @@
-# Hello Word! I'm Felipe Ferreira.
-<a href="#">
-  <img alt="Portuguese Profile" target="_blank" src="https://img.shields.io/badge/Poruguese-green" >
+# Ola Mundo! Sou Felipe Ferreira.
+<a href="https://github.com/fluk-code">
+  <img alt="Perfil em inglês" target="_blank" src="https://img.shields.io/badge/Poruguese-red" >
 </a>
 <a href="#">
-  <img alt="French Profile" target="_blank" src="https://img.shields.io/badge/French-blue" >
+  <img alt="Perfil em Francês" target="_blank" src="https://img.shields.io/badge/French-blue" >
 </a>
 
-### About me.
-- 💻 Work: I'm currently as HelpDesk @VRSoftware
-- 👨‍🎓 I'm studying software analysis and development at UNIP university.
-- 📖 I intend to specialize in web development fullstack with javascript
+### Sobre mim.
+- 💻 Trabalho: Atualmetne trabalho como Analista de suporte técnico na @VRSoftware.
+- 👨‍🎓 Estou estudando analise e desenvolvimento de sistema na UNIP.
+- 📖 Pretendo me especializar em desenvolvimento web fullstack (JavaScript).
 
 <a href="mailto:ferreirafelipericardo@gmail.com">
   <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
