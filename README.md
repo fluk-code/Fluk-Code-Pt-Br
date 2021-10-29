@@ -1,9 +1,9 @@
 # Ola Mundo! Sou Felipe Ferreira.
 <a href="https://github.com/fluk-code">
-  <img alt="Perfil em inglês" target="_blank" src="https://img.shields.io/badge/Poruguese-red" >
+  <img alt="Perfil em inglês" target="_blank" src="https://img.shields.io/badge/English-red" >
 </a>
 <a href="#">
-  <img alt="Perfil em Francês" target="_blank" src="https://img.shields.io/badge/French-blue" >
+  <img alt="Perfil em Francês" target="_blank" src="https://img.shields.io/badge/Français-blue" >
 </a>
 
 ### Sobre mim.
