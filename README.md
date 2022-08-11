@@ -7,9 +7,9 @@
 </a>
 
 ### Sobre mim.
-- 💻 Trabalho: Atualmetne trabalho como Analista de suporte técnico na @VRSoftware.
-- 👨‍🎓 Estou estudando analise e desenvolvimento de sistema na UNIP.
-- 📖 Pretendo me especializar em desenvolvimento web fullstack (JavaScript).
+- 💻 Desenvolvedor web na @VRSoftware.
+- 👨‍🎓 Formado em analise e desenvolvimento de sistema na UNIP.
+- 📖 em busca constante do conhecimento.
 
 <a href="mailto:ferreirafelipericardo@gmail.com">
   <img alt="Gmail ferreirafelipericardo@gmail.com" target="_blank" src="https://img.shields.io/badge/-Gmail-060606?style=for-the-badge&labelColor=0D0D0D&logo=Gmail&color=red&logoColor=white" >
